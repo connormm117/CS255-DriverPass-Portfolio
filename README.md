@@ -65,3 +65,6 @@ Going forward, I’ll continue to use iterative, user-centered techniques and ma
 - Secure system design considerations (encryption, role-based access)
 
 ---
+## 👤 Author
+**Connor Martin**  
+Southern New Hampshire University – Computer Science Program  
